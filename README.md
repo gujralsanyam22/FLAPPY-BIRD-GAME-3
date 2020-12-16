@@ -42,10 +42,4 @@ Notable forks
 Made something awesome from FlapPyBird? Add it to the list :)
 
 
-ScreenShot
-----------
 
-![Flappy Bird](screenshot1.png)
-
-[pygame]: http://www.pygame.org
-[pipenv]: https://pipenv.readthedocs.io/en/latest/
